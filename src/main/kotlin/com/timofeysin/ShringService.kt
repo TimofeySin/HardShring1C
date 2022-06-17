@@ -11,7 +11,7 @@ class ShringService {
         url = "jdbc:postgresql://tesla:5432/",
         driver = "org.postgresql.Driver",
         user = "postgres",
-        password = "Uiol2345",
+        password = "",
         dialect = PostgreSqlDialect()
     )
 
